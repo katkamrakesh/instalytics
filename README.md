@@ -6,6 +6,8 @@ Analyse the posts based on posting frequency on monthly and weekly basis, likes 
 
 Additionally, visualize the trends of likes,comments and users with maximum comments for posts.
 
-Run the jupyter notebook in google colab, key in the handle or hashtag to visualize the analysis.
+Visualized the results using plotly libraries.
+
+For interactive visualization, run the instalytics.ipynb file on google colab and key in the handle or hashtag.
 
 Future work: Sentiment analysis on post comments.
